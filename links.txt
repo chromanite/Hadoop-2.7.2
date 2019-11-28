@@ -1,0 +1,20 @@
+http://download.nus.edu.sg/mirror/apache/hadoop/common/hadoop-2.7.3/    ----- released	
+https://dist.apache.org/repos/dist/release/hadoop/common/hadoop-2.7.3/  ----- signature
+https://dist.apache.org/repos/dist/release/hadoop/common/KEYS           ----- Keys
+
+
+*****SET UP*****
+
+http://hadoop.apache.org/docs/r2.7.3/hadoop-project-dist/hadoop-common/ClusterSetup.html
+
+http://www.tecmint.com/install-configure-apache-hadoop-centos-7/2      ------ single node set up
+https://www.youtube.com/watch?v=rtQ4ajrfSe8                            ------ single node set up
+https://www.youtube.com/watch?v=-YEcJquYsFo                            ------ multi node set up
+https://www.tutorialspoint.com/hadoop/hadoop_multi_node_cluster.htm    ------ multi node set up
+
+
+****centOS****
+http://mirror.nus.edu.sg/centos/7/isos/x86_64/CentOS-7-x86_64-Everything-1511.iso 
+
+****Java 7****
+http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html
